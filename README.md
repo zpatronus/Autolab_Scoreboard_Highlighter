@@ -2,7 +2,7 @@
 
 A Tampermonkey userscript that automatically highlights your row on Autolab scoreboards for better visibility.
 
-![image-20250707160135410](./README.assets/image-20250707160135410.png)
+![image-20250707163616380](./README.assets/image-20250707163616380.png)
 
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser
